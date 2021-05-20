@@ -1,3 +1,15 @@
+/** Global Styles **/
 body{
     background: #BDBDBD;
 }
+
+.container-fluid {
+    background-color: white;
+}
+
+.container-fluid .container {
+    padding-top:3rem;
+}
+
+
+/** your stylesheets **/ 
