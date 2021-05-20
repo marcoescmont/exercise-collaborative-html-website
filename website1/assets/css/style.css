@@ -2,7 +2,23 @@
 body{
     background: #BDBDBD;
 }
+.heisenberg{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+.grey{
+    color: grey;
+}
 
+
+.container {
+    width: 960px;
+    background-color: white;
+    padding-bottom: 50px;
+}
+.top-p {
+    font-size: 20px;
 .card-title {
     font-size: 150px;
     text-align: center;
@@ -24,8 +40,12 @@ body{
     border: none;
    
 }
-.container-fluid {
+.content .container-fluid {
     background-color: white;
+}
+
+.navbar .container-fluid {
+    background-color:none;
 }
 
 .container-fluid .container {
