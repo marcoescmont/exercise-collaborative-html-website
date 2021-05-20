@@ -15,10 +15,6 @@ body{
   border-bottom-left-radius: 50% 50%;
 }
 
-.container{
-    max-width
-}
-
 .heisenberg{
     border-radius: 50%;
     height: 300px;
@@ -29,16 +25,9 @@ body{
 }
 
 
-.container {
-    width: 960px;
-    background-color: white;
-    padding-bottom: 50px;
-}
-
 .top-p {
     font-size: 20px;
 }
-
 
 .card-title {
     font-size: 150px;
@@ -47,6 +36,16 @@ body{
 
 .card-text {
     font-size: 80px;
+    text-align: center;
+}
+
+#portfolio .card-title {
+    font-size: 20px;
+    text-align: center;
+}
+
+#portfolio .card-text {
+    font-size: 20px;
     text-align: center;
 }
 
@@ -62,12 +61,13 @@ body{
    
 }
 
-#content .container-fluid {
+.main-wrapper {
     background-color: white;
 }
 
-#content .container-fluid .container {
+.container {
     padding-top:3rem;
+    padding-bottom: 3rem;
 }
 
 
