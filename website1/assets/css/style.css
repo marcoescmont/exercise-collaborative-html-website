@@ -3,6 +3,14 @@ body{
     background: #BDBDBD;
 }
 
+
+.container {
+    width: 960px;
+    background-color: white;
+    padding-bottom: 50px;
+}
+.top-p {
+    font-size: 20px;
 .card-title {
     font-size: 150px;
     text-align: center;
