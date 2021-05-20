@@ -24,8 +24,12 @@ body{
     border: none;
    
 }
-.container-fluid {
+.content .container-fluid {
     background-color: white;
+}
+
+.navbar .container-fluid {
+    background-color:none;
 }
 
 .container-fluid .container {
