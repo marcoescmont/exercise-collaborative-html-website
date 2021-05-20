@@ -79,3 +79,6 @@ body{
 .cnct-info {
     border-color: rgb(151, 151, 151);
 }
+.cnct-text {
+    font-size: 20px;
+}
