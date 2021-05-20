@@ -17,8 +17,12 @@ body{
     background-color: white;
     padding-bottom: 50px;
 }
+
 .top-p {
     font-size: 20px;
+}
+
+
 .card-title {
     font-size: 150px;
     text-align: center;
@@ -40,15 +44,12 @@ body{
     border: none;
    
 }
-.content .container-fluid {
+
+#content .container-fluid {
     background-color: white;
 }
 
-.navbar .container-fluid {
-    background-color:none;
-}
-
-.container-fluid .container {
+#content .container-fluid .container {
     padding-top:3rem;
 }
 
