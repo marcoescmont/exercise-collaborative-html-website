@@ -3,7 +3,6 @@ body{
     background: #BDBDBD;
 }
 
-<<<<<<< HEAD
 .card-title {
     font-size: 150px;
     text-align: center;
@@ -25,7 +24,6 @@ body{
     border: none;
    
 }
-=======
 .container-fluid {
     background-color: white;
 }
@@ -39,4 +37,3 @@ body{
 .s-btn-contact {
     padding-right: 2px;
 }
->>>>>>> 65ad2678b18e4b1a03309d1a74f4a616c0fa33d9
