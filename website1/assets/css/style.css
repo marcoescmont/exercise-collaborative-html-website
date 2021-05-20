@@ -1,3 +1,4 @@
+/** Global Styles **/
 body{
     background: #BDBDBD;
 }
@@ -8,4 +9,51 @@ body{
 }
 .grey{
     color: grey;
+}
+
+
+.container {
+    width: 960px;
+    background-color: white;
+    padding-bottom: 50px;
+}
+.top-p {
+    font-size: 20px;
+.card-title {
+    font-size: 150px;
+    text-align: center;
+}
+
+.card-text {
+    font-size: 80px;
+    text-align: center;
+}
+
+.card-img-overlay {
+    align-items: center;
+    padding: 0;
+    margin-top: 10%;
+
+}
+
+.card {
+    border: none;
+   
+}
+.content .container-fluid {
+    background-color: white;
+}
+
+.navbar .container-fluid {
+    background-color:none;
+}
+
+.container-fluid .container {
+    padding-top:3rem;
+}
+
+
+/** your stylesheets **/ 
+.s-btn-contact {
+    padding-right: 2px;
 }
