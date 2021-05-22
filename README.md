@@ -1,3 +1,10 @@
+Landing page made in collaboration of 4 of my fellows.
+
+Preview: https://marcoescmont.github.io/exercise-collaborative-html-website/
+
+
+
+
 # Making a website as a team (Git collaboration)
 
 Practice your skills in GIT while developing a typical website.
